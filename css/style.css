@@ -153,25 +153,6 @@ object-fit: cover;
   height: 20px;
   object-fit: contain;
 }
-.actions .btn-facebook{
-  background-color: #0603ac;
-  cursor: pointer;
-  color: #fff;
-}
-.actions .btn-facebook:hover{
-  background-color: #0b0a38;
-  transition: .5s all ease;
-}
-.actions .btn-facebook .icon {
-
-  display: inline-block;
-  vertical-align: middle;
-}
-.actions .btn-facebook.icon img{
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-}
 
 .form-bottom{
   display: flex;
